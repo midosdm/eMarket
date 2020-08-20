@@ -1,3 +1,4 @@
+le projet est sous le lien : http://localhost/eMarket/public/boutique. 
 - Le projet est realisé a l'aide des framework laravel et Bootstrap;
 - la page de paiement avec le package Stripe;
 la page d'admin avec le package Voyageur.
