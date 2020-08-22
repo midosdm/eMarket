@@ -11,13 +11,18 @@ M.EL YOUSFI ABDERRAHMANE
 
 Déploiement du projet
 
-Extraire la base de donnée du dossier base donnee puis créer une base de donnee local nommé asteriskshopping utf8_general_ci
+créer une base de donnee local nommé eMarket utf8_general_ci
+
 Télécharger composer https://getcomposer.org/download/
+
 Cloner le projet.
-Renommer le fichier .env.example à .env (Ouvrez votre console puis cd au répertoire racine du projet executer mv .env.example .env ).
+
 Exécuter composer install.
+
 Exécuter php artisan key:generate .
+
 Exécuter php artisan migrate:fresh .
+
 Exécuter php artisan serve .
 
 plus d'informations :
